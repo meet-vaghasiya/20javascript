@@ -1,0 +1,10 @@
+google font dont work in button tag ,while describe in body . so go that element and give font-family to that icon.
+
+2.  /* this two property give in any button element  */
+  cursor: pointer;
+  outline: none;
+
+  3.if you only work in css than turn on auto save option in vscode
+don't forgot to turn off whiel using other lanuage like js 
+
+4. in long project there are many try and catch block and many error comes from which block we need  to print in console
